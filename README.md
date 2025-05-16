@@ -19,4 +19,4 @@ Produces dividend calendar
 
 
 # Project setup
-Just user Jupiter Notebook
+Just use Jupiter Notebook
